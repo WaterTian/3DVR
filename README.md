@@ -11,6 +11,7 @@
 片源来自PS4的一款游戏宣传片
 
 ![image](https://raw.githubusercontent.com/WaterTian/3DVR/master/2.jpg)
+
 上图为3D全景视频 相当于两套传统的全景视频 分别用于左眼和右眼 从而产生 3D效果
 
 当然文件量也相当于传统全景视频的两倍
